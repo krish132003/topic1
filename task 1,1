@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="A web page about IoT Applications" />
+    <meta name="author" content="Krish" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoT Applications</title>
+    <link rel="stylesheet" href="abc.css">
+  </head>
+  <body>
+    <h1>IoT Applications</h1>
+    <hr>
+    <h2>Activity 1 </h2>
+    <hr>
+    <h3>What is an IoT application? </h3>
+    <p>It is a physical object that connects to the Internet. It can be a fitness tracker, a thermostat, a lock or appliance – even a light bulb</p>
+    <ul>
+        <li>Used to analyse sensor data in cloud</li>
+        <li>Machine learning algorithm is employed</li>
+        <li>Embedded systems are connected to internet to collect and exchange data </li>
+    </ul>
+    <h3>What are the main Features needed?</h3>
+    <ul>
+        <li>Artificial Intelligence</li>
+        <li>connectivity</li>
+        <li>data processing</li>
+        <li>analyzing</li>
+        <li>compactness of device</li>
+        <li>Dynamic Nature</li>
+    </ul>
+    <h3>What are some Examples?</h3>
+    <ul>
+        <li>Smartphone apps</li>
+        <li>Biometric security system</li>
+        <li>Industrial automation</li>
+        <li>Smart watch</li>
+        <li>IoT Retail Shops</li>
+        <li>Smart Home</li>
+    </ul>
+    <hr>
+    <h2>Activity 2</h2>
+    <hr>
+    <h3>What does smart mean?</h3>
+    <ul>
+        <li>Refers to a system which does not require any user to operate.</li>
+        <li>Requires sensors to sense data according to which it acts. </li>
+        <li>Makes a system independent of any external source.</li>
+        <li>Sense Think Act is an important paradigm employed in this</li>
+        <li>Usually fault tolerant.</li>
+    </ul>
+    <h3>What are the main Features needed?</h3>
+    <ul>
+        <li>Eco Efficiency </li>
+        <li>High Security</li>
+        <li>Connecting building system</li>
+        <li>Intelligent Sensor IOT</li>
+        <li>Automated Processes</li>
+        <li>Data Analytics</li>
+    </ul>
+    <h3>What are some Smart-building scenarios?</h3>
+    <ul>
+        <li>Climate control including temperature, humidity, vibration etc.</li>
+        <li>Air quality monitoring system</li>
+        <li>Fire detection</li>
+        <li>Lighting control system</li>
+        <li>Earthquake detection</li>
+        <li>Water level detection</li>
+        <li>Structural health detection </li>
+    </ul>
+    <hr>
+    <h2>Activity 3</h2>
+    <hr>
+    <h3>What are the high-level features?</h3>
+    <ul>
+        <li>AI assisted parking management</li>
+        <li>Light directed Parking</li>
+        <li>Automated temperature control </li>
+        <li>Fire and Smoke detecting system</li>
+        <li>Wireless charging for cars</li>
+    </ul>
+    <h3>What are the parts needed?</h3>
+    <ul>
+        <li>Database to make a record of residents cars being parked</li>
+        <li>Anti theft alarm</li>
+        <li>Motion sensors and ultrasonic sensors </li>
+        <li>Temperature sensor to make the parking temperature controlled.</li>
+        <li>Electric car charging points</li>
+        <li>High security camera system</li>
+    </ul>
+    <h3>Who are the users?</h3>
+    <ul>
+        <li>Residents of the building </li>
+        <li>Guests</li>
+        <li>Staff members of the building</li>
+    </ul>
+
+    
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// css file code 
+body {
+    background-color: rgb(195, 140, 231);
+    }
+    
+    h1 {
+    color: white;
+    text-align: center;
+    }
+    
+    h2{
+    font-family: verdana;
+    font-size: 20px;
+    }
